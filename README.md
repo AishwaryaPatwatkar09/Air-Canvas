@@ -21,10 +21,6 @@ A virtual drawing board where you can draw by simply waving your fingers in the 
 3. Maps the motion onto a virtual canvas.
 4. UI allows color/size selection, eraser, background image, and more.
 
-## 🖼️ Sample Interface
-
-![Air Canvas UI](https://raw.githubusercontent.com/infoaryan/Air-Canvas-project/master/Screenshots/sample_project_img1.png)
-
 ## 🧪 Requirements
 
 - Python 3.8+
